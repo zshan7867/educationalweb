@@ -1,0 +1,16 @@
+icon-img{
+    width: 70px;
+    height: 70px;
+    padding-bottom: 4rem;
+}
+.mar{
+    margin-top: 17%;
+}
+
+.btn{
+    background-image: linear-gradient(to right, rgba(255, 0, 64, 0.795) , rgb(255, 0, 64));
+    color: white;
+    outline-color: white;
+    border-color: white;
+}
+
