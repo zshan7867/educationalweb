@@ -8,27 +8,27 @@
 
 const Home = () => {
   return ( <> 
-  <Container className='mt-5'>
+  <Container className='mt-3'>
     <Row>
       <Col  lg={6} md={6} sm={12} className='text-center mr'> 
       <h1 className='text-center hea m'>My Chlid Details</h1>
-  <p  className='text-center hea'  >
+  <p  className='text-center ha'  >
   "The problem that often arises has nothing to do with the timing of the description"" but the amount of description that is needed, which will vary from a simple the bare room to paragraphs of detailed prose.",
   </p>
-  <a href='/' className='btn btn-md bt'>My Child Details</a>
+  <a href='/administrator' className='btn btn-md bt'>My Child Details</a>
 
       <h1 className='text-center hea '>Payment</h1>
-  <p  className='text-center hea'  >
+  <p  className='text-center ha'  >
   "The problem that often arises has nothing to do with the timing of the description"" but the amount of description that is needed, which will vary from a simple the bare room to paragraphs of detailed prose.",
   </p>
-  <a href='/' className='btn btn-md bt'>Payment</a>
+  <a href='/admission' className='btn btn-md bt'>Payment</a>
  
 
       <h1 className='text-center hea'>Tracking</h1>
-  <p  className='text-center hea'  >
+  <p  className='text-center ha'  >
   "The problem that often arises has nothing to do with the timing of the description"" but the amount of description that is needed, which will vary from a simple the bare room to paragraphs of detailed prose.",
   </p>
-  <a href='/' className='btn btn-md bt'>Tracking</a>
+  <a href='/tracking' className='btn btn-md bt'>Tracking</a>
       </Col>
     <Col lg={6} md={5} sm={12}> 
       <img className='w-55' src={hm} alt='' />

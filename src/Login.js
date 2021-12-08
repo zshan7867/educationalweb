@@ -28,7 +28,7 @@ const Welcome = () => {
     <Form.Control type="password" placeholder="Password" />
   </Form.Group>
 
-  <Button variant="primary btn-block" className='mt-3 btn' value='/home' type="submit">Login</Button>
+  <Button variant="primary btn-block" className='mt-3 btn' href='/home' type="submit">Login</Button>
 
 </Form>
       </Col>

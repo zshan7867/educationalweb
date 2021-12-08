@@ -1,12 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
 .bt{
    margin-left: 70%; 
 }
 .hea{
     
-    font-family: "Poppin";
+    font-family: serif;
     color: wheat;
     font-weight: bold;
 }
+
+.ha{
+    
+    font-family: "Poppin";
+    color: wheat;
+
+}
 .m{
-    margin-left: 2%;
+
 }

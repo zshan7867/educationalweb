@@ -17,8 +17,8 @@ const Tracking = () => {
       <img className='w-55' src={igm} alt='' />
       </Col>
       <Col lg={5.5} md={6} sm={12} className='text-center ma'>
-         <h1 className='hea'> Tracking</h1>
-         <p className='hea'>"The problem that often arises has nothing to do with the timing of the description but the amount of description that is needed, which will vary from a simple the bare room to paragraphs of detailed prose.",</p>
+         <h1 className='hw'> Tracking</h1>
+         <p className='hw'>"The problem that often arises has nothing to do with the timing of the description but the amount of description that is needed, which will vary from a simple the bare room to paragraphs of detailed prose.",</p>
       <Form >
   <Form.Group className='mt-3' controlId="formBasicEmail">
     <Form.Control type="childIdCard" placeholder="Child Id Card" />

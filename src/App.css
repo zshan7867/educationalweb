@@ -2,6 +2,7 @@
 
 * {
     font-family: "Jost", sans-serif;
+    font-weight: bold;
 }
 
 display-flex,
@@ -152,7 +153,7 @@ input{
 input[type="checkbox"]:not(old):checked + label > span:before{
     content: "\f26b";
     display: block;
-    color: #222;
+    color:wheat;
     font-size: 11px;
     line-height: 1.2;
     text-align: center;
@@ -199,6 +200,7 @@ label{
     width:6px;
     background: wheat;
     border-radius: none;
+    font-family: 'Poppin';
     font-size: 18px;
     width: 80%;
     float: left;

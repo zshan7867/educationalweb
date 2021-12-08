@@ -10,6 +10,7 @@ icon-img{
 .btn{
     background-image: linear-gradient(to right, rgba(255, 0, 64, 0.795) , rgb(255, 0, 64));
     color: white;
+    font-family: 'Poppin';
     outline-color: white;
     border-color: white;
 }
